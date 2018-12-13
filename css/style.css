@@ -3,3 +3,8 @@
 .class {
   background-image: url(../images/仲間.jpg);
 }
+
+h1 {
+  color: #fff;
+  background-color: green;
+}
