@@ -4,3 +4,7 @@ h1 {
   color: #fff;
   background-color: green;
 }
+
+ {
+  background: url(../images/green.jpg) 0 0 repeat;
+}
