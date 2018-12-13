@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # groupGreen
 
 ## 参加メンバー
