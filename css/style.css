@@ -5,3 +5,6 @@ h1 {
   background-color: green;
 }
 
+.photo {
+  background: url(../images/仲間.jpg) center center no-repeat;
+}
