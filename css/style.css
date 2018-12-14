@@ -1,8 +1,17 @@
 @charset "UTF-8";
 
+.header {
+  width: 100%;
+  top: 0;
+  background-color: green;
+}
+.container {
+  width: 1000px;
+  padding: 0 150px;
+  margin: 0 auto;
+}
 h1 {
   color: #fff;
-  background-color: green;
 }
 
 .photo {
