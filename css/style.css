@@ -23,6 +23,11 @@ h1 {
 li {
   list-style-type: none;
 }
+
 h2 {
+  color: red;
+}
+.green {
+  background-color: red;
   color: green;
 }
